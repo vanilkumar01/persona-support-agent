@@ -1,0 +1,7 @@
+Billing Policy
+
+Customers are billed monthly on their subscription renewal date.
+
+Failed payments are retried automatically after 24 hours.
+
+If payment fails three times, the account is temporarily suspended until payment is completed.
